@@ -1,2 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_ict_equipment_ict_equipment,ict_equipment.ict_equipment,model_ict_equipment_ict_equipment,base.group_user,1,1,1,1
